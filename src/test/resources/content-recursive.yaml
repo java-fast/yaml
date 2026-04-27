@@ -1,0 +1,8 @@
+title: "Recursive Content Test 1"
+content:
+  title: "Recursive Content 1"
+  content: "null"
+  contents: "[]"
+contents:
+  - "Array Recursive Content 1" "null" "[]"
+  - "Array Recursive Content 2" "null" "[]"

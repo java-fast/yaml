@@ -1,0 +1,12 @@
+---
+title: "String Concatenation Test 2"
+classicApproach: "String Concatenation (+=)"
+optimizedApproach: "StringBuilder2"
+howFast: "~=80088xx"
+summary: "summary..."
+explanation: "Records: automatically generate the constructor, accessors (x(), y()), 
+equals(), hashCode(), and toString().\" They are immutable by design and ideal for 
+DTOs, value objects, and pattern matching."
+whenNotToUse:
+  - "If multiple threads access the same StringBuilder instance concurrently, do not use it."
+  - "Consider StringBuffer instead."
